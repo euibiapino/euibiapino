@@ -4,6 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euibiapino&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=90EE90&text_color=00FF7F&bg_color=0d1130" alt="João Vitor Ibiapino github stats" /> 
+  <br>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euibiapino&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1130" />
 </div>
 
