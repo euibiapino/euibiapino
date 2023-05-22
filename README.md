@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euibiapino&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=90EE90&text_color=00FF7F&bg_color=0d1130" alt="João Vitor Ibiapino github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euibiapino&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1130" />
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euibiapino&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1130" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=euibiapino&bg_color=0d1117&color=05a9ac&line=02d972&point=852e53&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
