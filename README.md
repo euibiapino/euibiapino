@@ -20,7 +20,7 @@
 <a href="https://steamcommunity.com/id/ipanemiano/" target="_blank">
   <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
 </a>  
-<a href="www.instagram.com/euibiapino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/euibiapino/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:ibiapinojoaovitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ibiapino-009547267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
