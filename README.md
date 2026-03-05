@@ -1,4 +1,11 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=euibiapino&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/euibiapino?style=for-the-badge&color=blue&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/Intern-LSI%20TEC-orange?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Student-UNIFAP-blue?style=for-the-badge&logo=graduation-cap" />
+</p>
+
+<p align="center">
   <img src="https://socialify.git.ci/euibiapino/euibiapino/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="euibiapino" width="700" height="300" />
 </p>
 
@@ -24,12 +31,16 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euibiapino&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=euibiapino&theme=dracula&no-frame=true&row=1&column=7" />
+</p>
+
 <h1 align="center">Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 I'm a Computer Science student at **Federal University of Amapá (UNIFAP)** and Software Development Intern at **LSI TEC**
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤖 I'm currently working on **AI-powered document processing** and **Backend Development** with SpaCy and Django.
+- 🤖 I'm currently working on **AI-powered document processing** and **Backend Development** with SpaCy and Django
 - 💻 I use daily: **.py**, **.java**, **.js**, **.sql**
 - 👯 We can connect to play some games 🎮
 - 🧑‍💻 Tech I work on:
