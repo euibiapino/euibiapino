@@ -22,7 +22,7 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
