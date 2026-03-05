@@ -1,8 +1,9 @@
 name: wakatime-stats
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'  # Runs daily at 12:00 UTC
+    - cron: '0 12 * * *'
 
 jobs:
   update-readme:
@@ -24,7 +25,8 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_COMMIT: "True"
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
