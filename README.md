@@ -22,7 +22,7 @@
 <br>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euibiapino&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align="center">Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 
@@ -40,3 +40,12 @@
       </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
+**:zap: Recent Activity:**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
