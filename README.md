@@ -53,4 +53,8 @@ No activity tracked
 
 **:zap: Recent Activity:**
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#5](https://github.com/euibiapino/snake-evolution/issues/5) in [euibiapino/snake-evolution](https://github.com/euibiapino/snake-evolution)
+2. ❗ Opened issue [#5](https://github.com/euibiapino/snake-evolution/issues/5) in [euibiapino/snake-evolution](https://github.com/euibiapino/snake-evolution)
+3. ❗ Opened issue [#4](https://github.com/euibiapino/snake-evolution/issues/4) in [euibiapino/snake-evolution](https://github.com/euibiapino/snake-evolution)
+4. ❗ Opened issue [#3](https://github.com/euibiapino/snake-evolution/issues/3) in [euibiapino/snake-evolution](https://github.com/euibiapino/snake-evolution)
 <!--END_SECTION:activity-->
