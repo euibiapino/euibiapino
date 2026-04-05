@@ -93,7 +93,7 @@ febrace                  0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 05 March 2026 - To: 04 April 2026
+From: 05 March 2026 - To: 05 April 2026
 
 Total Time: 59 hrs 23 mins
 
