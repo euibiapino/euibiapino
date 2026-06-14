@@ -106,9 +106,9 @@ Other        6 hrs 11 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 **:zap: Recent Activity:**
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/euibiapino/viordles/issues/2) in [euibiapino/viordles](https://github.com/euibiapino/viordles)
-2. ❗ Opened issue [#1](https://github.com/euibiapino/viordles/issues/1) in [euibiapino/viordles](https://github.com/euibiapino/viordles)
-3. 🔒 Closed issue [#5](https://github.com/euibiapino/snake-evolution/issues/5) in [euibiapino/snake-evolution](https://github.com/euibiapino/snake-evolution)
+1. 🔒 Closed issue [#2](https://github.com/euibiapino/viordles/issues/2) in [euibiapino/viordles](https://github.com/euibiapino/viordles)
+2. 🎉 Merged PR [#3](https://github.com/euibiapino/viordles/pull/3) in [euibiapino/viordles](https://github.com/euibiapino/viordles)
+3. 💪 Opened PR [#3](https://github.com/euibiapino/viordles/pull/3) in [euibiapino/viordles](https://github.com/euibiapino/viordles)
 4. ❗ Opened issue [#5](https://github.com/euibiapino/snake-evolution/issues/5) in [euibiapino/snake-evolution](https://github.com/euibiapino/snake-evolution)
 <!--END_SECTION:activity-->
 
