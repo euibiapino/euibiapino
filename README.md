@@ -91,7 +91,7 @@ observer-sessions        3 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 05 March 2026 - To: 02 July 2026
+From: 05 March 2026 - To: 03 July 2026
 
 Total Time: 89 hrs 13 mins
 
