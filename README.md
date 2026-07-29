@@ -51,11 +51,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2014%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2026
+> 🏆 368 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,10 +68,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                196 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌆 Daytime                183 commits         █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌃 Evening                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-🌙 Night                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌞 Morning                197 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌆 Daytime                184 commits         █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌃 Evening                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+🌙 Night                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 
 
@@ -79,38 +81,35 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 🐱‍💻 Projects: 
-sisfeiras                41 mins             ██████████████████░░░░░░░   72.32 % 
-ai-test-engineer         7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-observer-sessions        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-sisprojetos              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-febrace                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+sisfeiras                9 mins              ██████████████░░░░░░░░░░░   55.51 % 
+ai-test-engineer         7 mins              ███████████░░░░░░░░░░░░░░   44.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (76.6%)
+⏱ AI Coding Time: 9 mins (55.51%)
 
-✍️ 70 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 57 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 48,239,865 Input Tokens, 45,013 Output Tokens
+🔤 6,051,580 Input Tokens, 16,150 Output Tokens
 
-💵 $218.02 Estimated AI Cost This Week
+💵 $114.55 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 26 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Sonnet                   126 lines           █████████████████░░░░░░░░   66.67 % 
-Opus                     63 lines            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Sonnet                   132 lines           █████████████████░░░░░░░░   67.69 % 
+Opus                     63 lines            ████████░░░░░░░░░░░░░░░░░   32.31 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,778 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 2,559 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 14:03:58 UTC
+ Last Updated on 29/07/2026 14:07:31 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
