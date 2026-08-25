@@ -116,7 +116,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 05 March 2026 - To: 24 August 2026
+From: 05 March 2026 - To: 25 August 2026
 
 Total Time: 107 hrs 55 mins
 
